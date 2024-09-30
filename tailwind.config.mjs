@@ -29,6 +29,12 @@ export default {
         500: "#e14d0b",
         600: "#ea580c",
       }, // Primary colors, used mainly for links, buttons and svg icons
+      green: {
+        50: "#bbf7a6",
+        100: "#a5fa87",
+        400: "#6ecf4c",
+        500: "#4dba27",
+      }, // Accent colors, used mainly for star color, heading and buttons
       red: colors.red, // Used for bookmark icon
       zinc: colors.zinc, // Used mainly for box-shadow
     },
